@@ -1,2 +1,2 @@
-#!/bin/bas
-echo $PATHh
+#!/bin/bash
+echo $PATH
